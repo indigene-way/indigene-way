@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @indigene-way
-- 👀 I’m interested in science & engineering, IT, developping and coding, électrinics and mechanics, and sometimes art.
+- 👀 I’m interested in science & engineering, IT, developping and coding, électronics and mechanics, and sometimes art.
 - 🌱 I’m currently learning Flutter and dart (at least hoping to start learning it), also working on my engineering skills and revising the fundamental theory, i'm
 into deeping my electronnic and programming knowledge too. 
 - 💞️ I’m looking to collaborate on Object Oriented Programming projects (Python mostly), and/or any kind of projects that implies programming for science, IT,
